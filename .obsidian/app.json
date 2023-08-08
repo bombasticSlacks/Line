@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "spellcheckDictionary": [
+    "Duelist",
+    "Cryptozoologist",
+    "Herbologist",
+    "vampiric"
+  ],
+  "showLineNumber": false,
+  "newLinkFormat": "relative"
+}
