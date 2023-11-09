@@ -1,5 +1,6 @@
 ## Line?
 *A game about trying to stage a play*
+![](Content/theatermasks1901.svg)
 
 In Line? 2 or more players need to work together to stage a play that no one can remember rehearsing for. This game:
 * Focuses on role play
@@ -37,17 +38,17 @@ A technical job they are good at, some suggestions would be:
 
 ---
 ### The Show
-Play should begin with the start of the show, one player should declare that they are on stage, that player is [Acting](#Acting), then another player should say "Lights up on:" with a description of the initial scene.
+The game should begin with the start of the show, one player should declare that they are on stage, that player is [Acting](#Acting), everyone else will start doing [Tech](#Tech). 
 
-The show should continue until the players find a way to end it. 
+Someone on [Tech](#Tech) should say "Lights up on:" with a description of the initial scene. The show should continue until the players find a way to end it. 
 
 ---
 ### Actions
-While the show is going on, those [Acting](#Acting) and doing [Tech](#Tech) can perform actions using dice. Each role has it's own list of actions. Whenever you are doing an action, 
-* roll 1d6
-* add 1 if the action is related to your [Preferred Job](#Preferred%20Job)
-* add 1 if the action can be tied back to your experience with your [Last Production](#Last%20Production)
-* subtract 1 if the action can be tied back to your experience with your [Most Embarrassing Stage Moment](#Most%20Embarrassing%20Stage%20Moment)
+While the show is going on, those [Acting](#Acting) and doing [Tech](#Tech) can perform actions using dice. Each role has its own list of actions. Whenever you are doing an action, 
+* Roll 1d6
+* Add 1 if the action is related to your [Preferred Job](#Preferred%20Job).
+* Add 1 if the action can be tied back to your experience with your [Last Production](#Last%20Production).
+* Subtract 1 if the action can be tied back to your experience with your [Most Embarrassing Stage Moment](#Most%20Embarrassing%20Stage%20Moment).
 
 The total is your Action Value (AV)
 
@@ -59,6 +60,7 @@ When your creative is on stage, they are acting. They should be attempting to pl
 * Attempt an [Action](#Actions)
 
 Your [Actions](#Actions) are:
+
 #### Exit
 You try to exit the scene, transitioning to [Tech](#Tech).
 
@@ -77,6 +79,14 @@ You can't remember what to say next, maybe someone will help you.
 | 3-4          | Someone can whisper the first few words of your line, you need to start your line this way. |
 | 5+           | The players can spend a few minutes discussing the line.                                    | 
 
+#### Make A Choice
+Sometimes you have to make a big choice, whether that be a costume change, large movement, dance, or something else that will wow the audience.
+
+| Action Value | Result                                                                                                                                                  |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-2          | This was a terrible idea everyone is looking at you like you messed up! You move back to where you were before the big choice, and it's still your line! |
+| 3-4          | You should have rehearsed this! Someone is going to need to stall while you finish.                                                                     |
+| 5+           | The choice goes off swimmingly.                                                                                                                         | 
 #### Wait For Cue
 You remember there being a cue here, maybe if you look angry enough someone on [Tech](#Tech) will remember.
 
@@ -86,14 +96,6 @@ You remember there being a cue here, maybe if you look angry enough someone on [
 | 3-4          | Someone on tech can try to jump in with an [Action](#Actions).                                                                       | 
 | 5+           | Someone on [Tech](#Tech) can perform an [Actions](#Actions) with a +1 bonus, and you may provide a suggestion for what it should be. |
 
-#### Make A Choice
-Sometimes you have to make a big choice, whether that be a costume change, large movement, dance, or something else that will wow the audience.
-
-| Action Value | Result                                                                                                                                                  |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-2          | This was a terrible idea everyone is looking at you like you messed up! You move back to where you were before the big choice, and it's still your line! |
-| 3-4          | You should have rehearsed this! Someone is going to need to stall while you finish.                                                                     |
-| 5+           | The choice goes off swimmingly.                                                                                                                         | 
 
 ---
 
@@ -103,16 +105,6 @@ When your creative is backstage, they are doing tech. They should be listening t
 * Attempt an [Action](#Actions)
 
 Your [Actions](#Actions) are:
-#### Direct
-You remember the blocking for this scene, and they have it all wrong! You're going to have to walk them through it.
-
-| Action Value | Result                                                                                                                                      |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-2          | You just walked on! You're going to show them what to do live. You are now [Acting](#Acting).                                               |
-| 3-4          | You **must** describe some changes to the blocking and mood of the scene, but can give no justification for those changes.                  |
-| 5+           | You can explain to the actors where they should be standing, discuss with the actors their motivations, and what the point of the scene is. | 
-
-
 #### Cue
 You know something cool was supposed to happen right now you are sure of it, a scene transition, light effect, sound cue, setting a prop, or maybe a projection.
 
@@ -121,6 +113,15 @@ You know something cool was supposed to happen right now you are sure of it, a s
 | 1-2          | That's not the right button, something went wrong with this cue, and it's going to take you a few minutes to fix it. |
 | 3-4          | The cue happens, smooth enough.                                                                                      |
 | 5+           | The cue happens and is integrated perfectly, the next [Acting](#Acting) [Action](#Actions) receives a +1.            | 
+
+#### Direct
+You remember the blocking for this scene, and they have it all wrong! You're going to have to walk them through it.
+
+| Action Value | Result                                                                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-2          | You just walked on! You're going to show them what to do live. You are now [Acting](#Acting).                                               |
+| 3-4          | You **must** describe some changes to the blocking and mood of the scene, but can give no justification for those changes.                  |
+| 5+           | You can explain to the actors where they should be standing, discuss with the actors their motivations, and what the point of the scene is. | 
 
 #### Enter
 You think you're on in this scene, you will try entering the scene and start [Acting](#Acting).

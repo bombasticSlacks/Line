@@ -1,11 +1,10 @@
-## Aspirant
-### A Game about Adventure and Expertise
-A Collaboration By: [Multiple Parties](https://github.com/bombasticSlacks/Aspirant/graphs/contributors) Licensed Under: [CC BY SA 4.0](https://github.com/bombasticSlacks/Aspirant/blob/main/LICENSE) Originally At: [GitHub](https://github.com/bombasticSlacks/Aspirant) 
+## Line
+### A game about staging a play
+A Collaboration By: [Multiple Parties](https://github.com/bombasticSlacks/Line/graphs/contributors) Licensed Under: [CC BY SA 4.0](https://github.com/bombasticSlacks/Line/blob/main/LICENSE) Originally At: [GitHub](https://github.com/bombasticSlacks/Line) 
 
 ## Rules
 * The entirety of the games content is provided in Markdown in the Game folder for reuse and forking.
-* Hosted at: https://aspirantrpg.com/
-* Rules are also rendered in the [Wiki](https://github.com/bombasticSlacks/Aspirant/wiki/How-To-Play) of the [GitHub](https://github.com/bombasticSlacks/Aspirant) repository for direct perusal.
+* Hosted at: https://line.bombasticgames.com
 
 ## Rendering Locally
 * Should be renderable with anything that supports markdown.
@@ -26,5 +25,5 @@ To add the linter config to your system you can take the data file in the .obsid
 .obsidian/plugins/obsidian-linter, overwrite what is already there.
 
 ## Licensing
-Content in this repository, text, media, or otherwise is licensed as [CC-BY-SA 4.0](https://github.com/bombasticSlacks/Aspirant/blob/main/LICENSE) unless otherwise specified in the [Media File](https://github.com/bombasticSlacks/Aspirant/blob/main/Media.txt) or directly in it's file.
-Reminder that all subsequent works based on Aspirant **must** also be under CC-BY-SA 4.0 or a compliant licence.
+Content in this repository, text, media, or otherwise is licensed as [CC-BY-SA 4.0](https://github.com/bombasticSlacks/Aspirant/blob/main/LICENSE) unless otherwise specified in the [Media File](https://github.com/bombasticSlacks/Aspirant/blob/main/Media.txt) or directly in its file.
+Reminder that all subsequent works based on Line **must** also be under CC-BY-SA 4.0 or a compliant license.
