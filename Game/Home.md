@@ -87,6 +87,7 @@ Sometimes you have to make a big choice, whether that be a costume change, large
 | 1-2          | This was a terrible idea everyone is looking at you like you messed up! You move back to where you were before the big choice, and it's still your line! |
 | 3-4          | You should have rehearsed this! Someone is going to need to stall while you finish.                                                                     |
 | 5+           | The choice goes off swimmingly.                                                                                                                         | 
+
 #### Wait For Cue
 You remember there being a cue here, maybe if you look angry enough someone on [Tech](#Tech) will remember.
 
