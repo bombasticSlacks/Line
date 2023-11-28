@@ -9,14 +9,14 @@ In Line? 2 or more players need to work together to stage a play that no one can
 * Requires no dedicated GM
 * Requires about an hour
 
----
+
 ## Needs
 * Something to make notes with
 * 1 six-sided dice
 * Comfort and willingness to perform in character
 * If you will tackle difficult topics, make sure everyone has [consented](https://www.montecookgames.com/store/product/consent-in-gaming/)
 
----
+
 ## Creative
 Players may choose to play as themselves, or create a character to be the performer, but all players need a "creative" that they will be playing. This creative needs a bio in the program. 
 
@@ -36,13 +36,13 @@ A technical job they are good at, some suggestions would be:
 * Director
 * Assistant
 
----
+
 ## The Show
 The game should begin with the start of the show, one player should declare that they are on stage, that player is [Acting](#Acting), everyone else will start doing [Tech](#Tech). 
 
 Someone on [Tech](#Tech) should say "Lights up on:" with a description of the initial scene. The show should continue until the players find a way to end it. 
 
----
+
 ## Actions
 While the show is going on, those [Acting](#Acting) and doing [Tech](#Tech) can perform actions using dice. Each role has its own list of actions. Whenever you are doing an action, 
 * Roll 1d6
@@ -52,7 +52,7 @@ While the show is going on, those [Acting](#Acting) and doing [Tech](#Tech) can 
 
 The total is your Action Value (AV)
 
----
+
 ## Acting
 When your creative is on stage, they are acting. They should be attempting to play one or more characters in the scene, role-playing their motivations and trying to push forward the story. While Acting, you can:
 * Role-play by talking
@@ -98,7 +98,6 @@ You remember there being a cue here, maybe if you look angry enough someone on [
 | 5+           | Someone on [Tech](#Tech) can perform an [Actions](#Actions) with a +1 bonus, and you may provide a suggestion for what it should be. |
 
 
----
 
 ## Tech
 When your creative is backstage, they are doing tech. They should be listening to those [Acting](#Acting) and trying to help them any way they can. While a tech, you can:
