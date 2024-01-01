@@ -16,5 +16,6 @@ matrix:
       - code
       - pre
   sources:
-  - '**/*.md'
+  - 'Game/Home.md'
+  - 'README.md'
   default_encoding: utf-8
