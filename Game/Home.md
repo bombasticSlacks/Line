@@ -125,7 +125,7 @@ You remember the blocking for this scene, and they have it all wrong! You're goi
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 or less          | You just walked on! You're going to show them what to do live. You are now [Acting](#Acting).                                               |
 | 2-3          | You **must** describe some changes to the blocking and mood of the scene, but the actors can't give feedback.                  |
-| 4 or more           | You can talk to the actors in detail about the scene, discuss with the actors their motivations, and what the point of the scene is. The next action that happens on stage recieves a +1. | 
+| 4 or more           | You can talk to the actors in detail about the scene, discuss with the actors their motivations, and what the point of the scene is. The next action that happens on stage receives a +1. | 
 
 #### Enter
 You think you're on in this scene, you will try entering the scene and start [Acting](#Acting).
